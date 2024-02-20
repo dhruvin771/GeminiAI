@@ -13,7 +13,7 @@ Gemini-AI is my Telegram bot powered by the Google Gemini AI API. With Gemini AI
 ## Features
 - **Conversational Interface**: Engage in natural language conversations with the bot.
 - **Information Retrieval**: Receive answers to questions and queries.
-- **YouTube Video Analysis**: Provide YouTube links to analyze and discuss content.
+- **YouTube Video Analysis**: Provide YouTube links to analyze and discuss content. 
 - **Interactive Responses**: Enjoy interactive responses tailored to user inputs.
 
 ## Setup Instructions
