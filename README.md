@@ -5,9 +5,9 @@ Gemini-AI is my Telegram bot powered by the Google Gemini AI API. With Gemini AI
 
 ## Screenshot
 <p float="left">
-  <img src="https://raw.githubusercontent.com/dhruvin771/GeminiPro-Bot/main/screenshot/1.png" width="250" alt="Screenshot 1" />
-  <img src="https://raw.githubusercontent.com/dhruvin771/GeminiPro-Bot/main/screenshot/2.png" width="250" alt="Screenshot 2" />
-  <img src="https://raw.githubusercontent.com/dhruvin771/GeminiPro-Bot/main/screenshot/3.png" width="250" alt="Screenshot 3" />
+  <img src="https://raw.githubusercontent.com/dhruvin771/GeminiPro-Bot/main/screenshot/1.png" width="350" alt="Screenshot 1" />
+  <img src="https://raw.githubusercontent.com/dhruvin771/GeminiPro-Bot/main/screenshot/2.png" width="350" alt="Screenshot 2" />
+  <img src="https://raw.githubusercontent.com/dhruvin771/GeminiPro-Bot/main/screenshot/3.png" width="350" alt="Screenshot 3" />
 </p>
 
 ## Features
